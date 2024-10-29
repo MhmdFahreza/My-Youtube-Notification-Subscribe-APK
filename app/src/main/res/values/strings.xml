@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleNotif</string>
+    <string name="send_notif">Send Notif</string>
+    <string name="notification_title">Fareekz YT</string>
+    <string name="notification_message">Fareekz YT Mengupload Video Terbaru</string>
+    <string name="notification_subtext">Subscribe</string>
+</resources>
