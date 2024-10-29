@@ -4,4 +4,7 @@
     <string name="notification_title">Fareekz YT</string>
     <string name="notification_message">Fareekz YT Mengupload Video Terbaru</string>
     <string name="notification_subtext">Subscribe</string>
+    <string name="open_detail">Open Detail</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
 </resources>
